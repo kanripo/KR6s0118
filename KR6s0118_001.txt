@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:48.713541
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:43
 #+TITLE: 青龍寺求法目錄
 #+PROPERTY: CBETA_ID T55n2171
 #+PROPERTY: ID KR6s0118
@@ -23,7 +23,7 @@ No.2171¶
 合　胎藏金剛兩部經法等壹佰壹拾伍卷¶
 兩部曼荼羅并道具等。¶
 
-經法
+* 經法
 :PROPERTIES:
 :head: 經法
 :END:
@@ -121,7 +121,7 @@ No.2171¶
   * 《貞元捨拾錄一卷》¶
 已上茲載貞元拾遺目錄中。¶
 
-曼荼羅道具等
+* 曼荼羅道具等
 :PROPERTIES:
 :head: 曼荼羅道具等
 :END:
