@@ -1,21 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 00:18:48.713541
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:43
 #+TITLE: 青龍寺求法目錄
 #+PROPERTY: CBETA_ID T55n2171
 #+PROPERTY: ID KR6s0118
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 55, No. 2171
 #+PROPERTY: VOL 55
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6s0118_T_000-1095c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6s0118_T_001-1095c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.2171¶
-
- 青龍寺求法目錄¶
+No. 2171¶
+青龍寺求法目錄¶
 ¶
 
 日本國上都延曆寺僧圓珍求法目錄(伍紙)¶
@@ -23,11 +22,7 @@ No.2171¶
 合　胎藏金剛兩部經法等壹佰壹拾伍卷¶
 兩部曼荼羅并道具等。¶
 
-經法
-:PROPERTIES:
-:head: 經法
-:END:
-¶
+* 輕法¶
 
   
   * 《大毘盧遮那成佛經》一部七卷(三藏善無畏譯)¶
@@ -121,11 +116,7 @@ No.2171¶
   * 《貞元捨拾錄一卷》¶
 已上茲載貞元拾遺目錄中。¶
 
-曼荼羅道具等
-:PROPERTIES:
-:head: 曼荼羅道具等
-:END:
-¶
+* 曼荼羅道具等¶
 
   
   * 《大毘盧遮那佛胎藏大曼荼羅一鋪》(五副新造)¶
